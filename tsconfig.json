@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es2021",
+        "moduleResolution": "node16",
+        "outDir": "./build",
+        "skipLibCheck": true,
+    }
+}
